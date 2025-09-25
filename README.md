@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **student** on a journey to maste
 - Backend Development
 - Data Structures & Algorithms
 
-## 📦 Featured Projects
+## 📦 Featured Repos
 - [E-commerce](https://github.com/GopalVar2005/E-commerce): Building scalable online shopping solutions.
 - [JavaScript](https://github.com/GopalVar2005/JavaScript): Practicing and mastering JavaScript basics and advanced concepts.
 - [DSA](https://github.com/GopalVar2005/DSA): Sharpening problem-solving skills.
