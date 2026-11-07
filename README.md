@@ -6,7 +6,7 @@
 
 ### 👋 Hi, I'm Gopal
 
-Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](https://stratbeans.com)**. I build reliable web products with **React, Next.js, Node.js, Express, and MongoDB**, with a particular interest in practical AI-enabled experiences.
+Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](https://stratbeans.com)**. I build reliable web products with **React, Node.js, Express, and MongoDB**, with a particular interest in practical AI-enabled experiences.
 
 **Open to SDE intern and new-grad opportunities.**
 
