@@ -4,16 +4,17 @@
 
 <br />
 
-### 👨‍💻 About Me
+### 👋 Hi, I'm Gopal
 
-I am a **Software Engineer Intern** at **[Stratbeans Consulting](https://stratbeans.com)** and a Computer Science undergraduate at **GLA University, Mathura** (2023–2027) with an **8.88 / 10 CGPA**.
+Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](https://stratbeans.com)**. I build reliable web products with **React, Next.js, Node.js, Express, and MongoDB**, with a particular interest in practical AI-enabled experiences.
 
-I build production-grade web applications across the full stack with modern frontend and backend architectures (React, Next.js, Node.js, Express, MongoDB) while maintaining a disciplined algorithmic problem-solving practice in **Java** with **950+ problems solved** on LeetCode.
+**Open to SDE intern and new-grad opportunities.**
 
-- 💼 **Currently**: Engineering web applications as an SDE Intern at Stratbeans Consulting
-- 🧠 **Algorithmic Practice**: 950+ problems solved on LeetCode with a **1737 Contest Rating (Knight Badge, Top 15% globally)**
-- 🎓 **Academics**: B.Tech in Computer Science and Engineering @ GLA University, Mathura (8.88 / 10 CGPA)
-- 📍 **Location**: Mathura, Uttar Pradesh, India
+[Portfolio](https://gopalvarshney-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gopal-varshney-99b0b0366/) · [LeetCode](https://leetcode.com/u/Gopal_Varshney/) · [Email](mailto:gopal.varshney13@gmail.com)
+
+- 🎓 B.Tech, Computer Science & Engineering, GLA University (2023–2027) — **8.88 / 10 CGPA**
+- 🧠 **950+ LeetCode problems** solved; **1737 contest rating** (Knight badge, top 15% globally)
+- 📍 Mathura, Uttar Pradesh, India
 
 ---
 
@@ -37,7 +38,7 @@ I build production-grade web applications across the full stack with modern fron
     </td>
     <td width="50%" valign="top">
       <h4>📚 <a href="https://github.com/GopalVar2005/Learnify-Full-Stack-Learning-Web-App">Learnify — Learning Management System</a></h4>
-      <p>Collaborative learning platform with instructor dashboards, video lecture hosting via Cloudinary, lesson progress tracking, and role-based JWT authentication across 17 REST endpoints.</p>
+      <p>Learning platform with instructor dashboards, Cloudinary video hosting, lesson-progress tracking, and role-based session authentication across 17 REST endpoints.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=white" alt="Express" />
