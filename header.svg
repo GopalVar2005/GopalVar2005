@@ -60,11 +60,11 @@
     <text x="26" y="33" text-anchor="middle" class="monogram">GV</text>
   </g>
 
-  <!-- Live Role Badge -->
+  <!-- Opportunity Badge -->
   <g transform="translate(104, 32)">
-    <rect width="268" height="22" rx="11" fill="#1c2128" stroke="#388bfd" stroke-opacity="0.35" stroke-width="1" />
+    <rect width="226" height="22" rx="11" fill="#1c2128" stroke="#388bfd" stroke-opacity="0.35" stroke-width="1" />
     <circle cx="12" cy="11" r="3.5" fill="#3fb950" />
-    <text x="24" y="15" class="badge-text">SOFTWARE ENGINEER INTERN @ STRATBEANS</text>
+    <text x="24" y="15" class="badge-text">OPEN TO SDE OPPORTUNITIES</text>
   </g>
 
   <!-- Name & Subtitle -->
@@ -76,7 +76,7 @@
   <g transform="translate(36, 134)">
     <rect width="240" height="52" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
     <text x="18" y="24" class="pill-title">⚡ 950+ Problems Solved</text>
-    <text x="18" y="41" class="pill-sub">LeetCode Contest Rating: 1737 (Knight)</text>
+    <text x="18" y="41" class="pill-sub">LeetCode Contest Rating: 1737</text>
   </g>
 
   <!-- Card 2: Academic -->
@@ -89,7 +89,7 @@
   <!-- Card 3: Domain -->
   <g transform="translate(544, 134)">
     <rect width="260" height="52" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="18" y="24" class="pill-title">💻 React • Next.js • Java • Node</text>
+    <text x="18" y="24" class="pill-title">💻 React • Java • Node.js • Express</text>
     <text x="18" y="41" class="pill-sub">Building production-grade web applications</text>
   </g>
 </svg>
