@@ -13,7 +13,7 @@ Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](h
 [Portfolio](https://gopalvarshney-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gopal-varshney-99b0b0366/) · [LeetCode](https://leetcode.com/u/Gopal_Varshney/) · [Email](mailto:gopal.varshney13@gmail.com)
 
 - 🎓 B.Tech, Computer Science & Engineering, GLA University (2023–2027) — **8.88 / 10 CGPA**
-- 🧠 **950+ LeetCode problems** solved; **1737 contest rating** (Knight badge, top 15% globally)
+- 🧠 **950+ LeetCode problems** solved; **1737 contest rating**
 - 📍 Mathura, Uttar Pradesh, India
 
 ---
