@@ -41,7 +41,7 @@ Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](h
       <h4>📚 <a href="https://github.com/GopalVar2005/Learnify-Full-Stack-Learning-Web-App">Learnify — Learning Management System</a></h4>
       <p>Learning platform with instructor dashboards, Cloudinary video hosting, lesson-progress tracking, and role-based session authentication.</p>
       <p>
-        <img src="https://img.shields.io/badge/React.js-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/React_19-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
         <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
@@ -63,7 +63,7 @@ Full-stack developer and **Software Engineer Intern at [Stratbeans Consulting](h
     </td>
     <td width="50%" valign="top">
       <h4>📘 <a href="https://github.com/GopalVar2005/The-Interview-Handbook">The Interview Handbook</a></h4>
-      <p>Structured interview-preparation notes and Java solutions covering common problem-solving patterns, including arrays, linked lists, trees, dynamic programming, and graphs.</p>
+      <p>Personal record of my interview preparation, with structured notes and Java solutions for learning and revisiting common problem-solving patterns.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
         <img src="https://img.shields.io/badge/Interview_Prep-161b22?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Interview preparation" />
